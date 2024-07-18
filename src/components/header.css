@@ -1,0 +1,26 @@
+
+.navbar{
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    font-family:  system-ui;
+    color: var(--body_color);
+    padding-top: 20px;
+  
+}
+
+.nav_list{
+    display: flex;
+    gap: 60px;
+    font-size: 20px;
+}
+a:hover{
+  color: var(--pink);
+  transition: 0.2s linear;
+  cursor: grab;
+}
+.name{ 
+    font-size: 40px;
+
+}
+
