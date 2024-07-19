@@ -57,6 +57,7 @@ input:focus, textarea:focus{
     width: 27px;
     height: 28px;
     padding: 2px;
+    transition: 0.3s;
   }
   .info_text{
     color: white;
@@ -72,7 +73,7 @@ input:focus, textarea:focus{
     display: flex;
     flex-direction: column;
     gap: 40px;
-    margin-top: 50%;
+   justify-content: center;
 }
 .inbox_heading{
     color: white;
@@ -89,7 +90,8 @@ input:focus, textarea:focus{
     border-radius: 30px;
     width: 27px;
     height: 28px;
-    padding: 2px;
+    padding: 3px;
+    transition: 0.3s;
 }
 .link_section{
     display: flex;

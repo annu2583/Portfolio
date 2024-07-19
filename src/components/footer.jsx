@@ -37,25 +37,30 @@ function Footer() {
                         <div className='contact_info'>
                             <div className='email_info'>
                                 <img className='email' src='mail.svg' alt='email' />
-                                <span className='info_text'>annuverma8234@gmail.com</span>
+                                <a href="mailto:annuverma8234@gmail.com" className='info_text'> annuverma8234@gmail.com</a>
+
+
                             </div>
 
                             <div className='location_info'>
                                 <img className='locate' src='gps.svg' alt='location' />
-                                <span className='info_text'>Abohar,Punjab - 152116</span>
+                                <span className='info_text'>Abohar, Punjab - 152116</span>
                             </div>
 
                             <div className='call_info'>
+
                                 <img className='phone' src='call.svg' alt='call' />
                                 <span className='info_text'>+917270991000</span>
+
+
                             </div>
                             <div className='link_section'>
-                            <img className='links' src='git.svg'/>
-                            <img className='links' src='link.svg'/>
-                     
+                                <img className='links' src='git.svg' />
+                                <img className='links' src='link.svg' />
+
+                            </div>
                         </div>
-                        </div>
-                       
+
                     </div>
 
                 </div>

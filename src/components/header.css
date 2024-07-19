@@ -14,7 +14,7 @@
     gap: 60px;
     font-size: 20px;
 }
-a:hover{
+.link:hover{
   color: var(--pink);
   transition: 0.2s linear;
   cursor: grab;

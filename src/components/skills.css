@@ -46,6 +46,7 @@ img{
     padding: 20px;
     border-radius: 10px;
     gap: 5px;
+    transition: 0.3s;
 }
 .html:hover,.css:hover,.js:hover,.figma:hover,.git:hover,.node:hover,.react:hover{
     box-shadow:0px 1px 7px 1px #3c4981;
