@@ -5,7 +5,7 @@ function Footer() {
         <>
             <div className='container'>
                 <div className='footer_Section'>
-                    <div className='study_col' id='contact'>CONTACT</div>
+                    <div className='about_col' id='contact'>CONTACT</div>
                     <div className='form_section'>
                         <div className='contact_me'>
                             <h4 className='contact_heading'>Let's Talk</h4>
@@ -29,8 +29,7 @@ function Footer() {
                                     <br />
                                 </div>
 
-
-
+ 
                                 <button type="submit" className="btn">Submit</button>
                             </form>
                         </div>

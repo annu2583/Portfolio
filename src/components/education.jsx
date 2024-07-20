@@ -20,7 +20,7 @@ function Education() {
         <>
             <div className='study_section'>
                 <div className='container'>
-                    <div  className='study_col' id='education'>EDUCATION</div>
+                    <div  className='about_col' id='education'>EDUCATION</div>
                     <div className='degree_Section'>
                         <img className='study_bg' src='education.svg' />
                         <div className='degree_cols'>

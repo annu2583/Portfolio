@@ -11,6 +11,7 @@
     margin: 0 auto;
     margin-bottom: 60px;
     cursor: grab;
+    transition: 0.3s;
 }
 
 .horizon{

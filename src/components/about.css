@@ -2,7 +2,7 @@
 .brief{
     display: flex;
     flex-direction: column;
-    gap: 50px;
+    /* gap: 50px; */
     /* align-items: center; */
     margin: 60px;
 }
@@ -31,6 +31,8 @@
     text-align: center;
     margin: 0 auto;
     cursor: grab;
+    transition: 0.3s;
+    margin-bottom: 60px;
 }
 .intro{
     display: flex;

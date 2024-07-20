@@ -37,7 +37,7 @@ function Skills() {
       <div className='container'>
         <div className='skills_Section'>
           <div className='about_heading'>
-            <div className='skill_box' id='skills'>SKILLS</div>
+            <div className='about_col' id='skills'>SKILLS</div>
           </div>
 
           <div className='skills_columns' >

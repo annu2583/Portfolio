@@ -15,11 +15,12 @@
 .project_flex {
     border: 1px solid var(--purple);
     padding: 40px;
-    width: 340px;
+    /* width: 340px; */
     display: flex;
     justify-content: space-between;
     align-items: baseline;
     flex-direction: column;
+    height: 100%;
 }
 
 .project_link {
@@ -36,7 +37,7 @@ h2 {
 .project_icons {
     display: flex;
     margin-bottom: 30px;
-    gap: 144px;
+    gap: 175px;
 }
 
 h4 {
@@ -53,4 +54,12 @@ h4 {
   }
   .project_flex:hover {
     transform: translate(0, -10px);
+  }
+               
+  .projects_grid{
+    display: grid;
+    gap: 15px;
+    margin-top: 60px;
+    grid-template-columns: auto auto auto;
+    justify-content: space-evenly;
   }
