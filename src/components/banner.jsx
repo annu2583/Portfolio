@@ -6,11 +6,12 @@ function Banner() {
             {/* <div className="bg_section">
 
               <img className= 'background_img' src="./column.svg" alt="column"/> */}
-<div className="background_color">
+            <div className="background_color">
 
 
                 <div className="container">
                     <div className='Banner_Section'>
+                        <div className="profile_info">
                         <div className="myself">
                             <h2>Hello,
                                 <br />
@@ -23,9 +24,9 @@ function Banner() {
                             </h2>
                         </div>
                         <div className='logos'>
-                            <img className= 'git_logo 'src='./github.svg' alt='github' />
-                            <img className= 'link_logo' src='./linkedin.svg' alt='linkedin' />
-                            <img className= 'ig_logo' src='./instagram.svg' alt='insta' />
+                            <img className='git_logo ' src='./github.svg' alt='github' />
+                            <img className='link_logo' src='./linkedin.svg' alt='linkedin' />
+                            <img className='ig_logo' src='./instagram.svg' alt='insta' />
                         </div>
                         <div className="info_section">
                             <button className="contact_btn">
@@ -42,10 +43,14 @@ function Banner() {
                                     <path fill="none" d="M0 0h24v24H0z"></path><path d="M5 20h14v-2H5v2zM19 9h-4V3H9v6H5l7 7 7-7z"></path></svg></span>
                             </button>
                         </div>
+                        </div>
 
+                        <div className="profile">
+                            <img className='profile_img' src="annu.jpg" />
+                        </div>
                     </div>
                 </div>
-            {/* </div> */}
+                {/* </div> */}
             </div>
             <div className='horizontal'></div>
         </>

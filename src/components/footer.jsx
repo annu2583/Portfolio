@@ -57,6 +57,7 @@ function Footer() {
                             <div className='link_section'>
                                 <img className='links' src='git.svg' />
                                 <img className='links' src='link.svg' />
+                                <img className='ig_links' src='ing.svg' />
 
                             </div>
                         </div>
