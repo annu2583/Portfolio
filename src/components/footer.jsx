@@ -5,7 +5,7 @@ function Footer() {
         <>
             <div className='container'>
                 <div className='footer_Section'>
-                    <div className='about_col' id='contact'>CONTACT</div>
+                    <div className='study_col' id='contact'>CONTACT</div>
                     <div className='form_section'>
                         <div className='contact_me'>
                             <h4 className='contact_heading'>Let's Talk</h4>
@@ -29,7 +29,8 @@ function Footer() {
                                     <br />
                                 </div>
 
- 
+
+
                                 <button type="submit" className="btn">Submit</button>
                             </form>
                         </div>
@@ -56,6 +57,7 @@ function Footer() {
                             <div className='link_section'>
                                 <img className='links' src='git.svg' />
                                 <img className='links' src='link.svg' />
+                                <img className='ig_links' src='ing.svg' />
 
                             </div>
                         </div>
