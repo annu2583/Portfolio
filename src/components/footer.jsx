@@ -54,8 +54,15 @@ function Footer() {
 
                             </div>
                             <div className='link_section'>
-                                <img className='links' src='git.svg' />
-                                <img className='links' src='link.svg' />
+                                {/* <img className='links' src='git.svg' /> */}
+                                <a href="https://github.com/annu2583">
+                                <img className='links' src='git.svg' alt='github' />
+                                </a>
+                                {/* <img className='links' src='link.svg' /> */}
+
+                                <a href="https://www.linkedin.com/in/pushpa-verma-3293752b6/">
+                                <img className='links' src='link.svg' alt='linkedin' />
+                                </a>
 
                             </div>
                         </div>

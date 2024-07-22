@@ -55,10 +55,12 @@ button{
     /* background: linear-gradient(665deg, var(--skyblue)9% , var(--pink)57%) */
     background: linear-gradient(291deg, #bd1230 37%, #c8566c 95%);
     transition: 0.3s;
+
     cursor: grab;
 }
 .resume:hover, .contact_btn:hover{
     transform: translate(-5px , -2px);
+    /* transform: scaleX(1.1) */
  
 }
 svg{
