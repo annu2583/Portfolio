@@ -1,9 +1,6 @@
 .Banner_Section{
     padding-top: 70px;
     margin-bottom: 60px;
-    display: flex;
-    /* justify-content: space-between; */
-    gap: 400px;
 
 }
 .myself{
@@ -100,9 +97,8 @@ svg{
     width: 40px;
     height: 40px;
 }
-.image{
-    width: 274px;
-    height: 411px;
-    border-radius: 30px;
-    box-shadow: 1px 2px 4px white;
+.profile_img{
+    width: 52%;
+    height: 66%;
+
 }

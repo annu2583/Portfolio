@@ -12,7 +12,7 @@ function Header() {
                         <a className="link" href="#skills"> Skills</a>
                         <a className="link" href="#education">Education</a>
                         <a className="link" href="#projects">Projects</a>
-                        {/* <a className="link" href="#contact">Contact</a> */}
+                        <a className="link" href="#contact">Contact</a>
                     
                         {/* {arr?.map((item,index)=>{
                                 return(
